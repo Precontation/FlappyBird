@@ -1,9 +1,8 @@
 import pygame
 import random
 
-from pygame.sprite import Group, Group
-
 __version__ = "1.0.0"
+
 # pygame setup
 pygame.init()
 screen = pygame.display.set_mode((432, 768)) 
