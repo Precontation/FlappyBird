@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Archived — moved to [Codeberg](https://codeberg.org/Precontation/FlappyBird)******
+
 # Flappy Bird
 
 > [!WARNING]
